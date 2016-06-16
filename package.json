@@ -1,20 +1,21 @@
 {
-  "name": "base-dev-react-webpack",
+  "name": "ReactHotReload-starter",
   "version": "1.0.0",
-  "description": "Base front dev - react hot reload - webpack",
+  "description": "Starter front dev - react hot reload - webpack",
+  "private": true,
   "scripts": {
     "start": "node build/dev-server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denis-mludek/base-dev-react-webpack.git"
+    "url": "git+https://github.com/denis-mludek/ReactHotReload-starter.git"
   },
   "author": "Denis Mludek",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/denis-mludek/base-dev-react-webpack/issues"
+    "url": "https://github.com/denis-mludek/ReactHotReload-starter/issues"
   },
-  "homepage": "https://github.com/denis-mludek/base-dev-react-webpack#readme",
+  "homepage": "https://github.com/denis-mludek/ReactHotReload-starter#readme",
   "dependencies": {
     "lodash": "^4.13.1",
     "react": "^15.1.0",
